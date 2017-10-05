@@ -337,6 +337,11 @@ body {
   font-weight: 100;
 }
 
+.content-left .comments .review-con .rating,
+.content-left .comments .review-pro .rating {
+  margin-top: 20px;
+}
+
 .content-left .comments .review-con h1,
 .content-left .comments .review-pro h1 {
   font-size: 16px;
